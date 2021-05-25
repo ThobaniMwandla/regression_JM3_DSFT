@@ -4,5 +4,4 @@ Machine Learning: Predict Project for regression_JM3_DSFT
 1) Thobani Mwandla
 2) Sihle Riti
 3) Isago Dikhing
-4) Ofentse Makeketlane
-5) Courtney James Murugan 
+4) Courtney James Murugan
